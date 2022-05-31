@@ -1,5 +1,5 @@
 :brazil:
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabriel-torres3077/e87c2b178b7fcc1506d0d838704ff4ba/raw/78c17431308eb0071f0be0b0f581328737019de9/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabriel-torres3077/e87c2b178b7fcc1506d0d838704ff4ba/raw/9bbf022424362deab1692beb4736d2a4abb2f413/githubcard.svg"/>
 <h1 align="left">Olá, eu sou Gabriel Augustinho Torres</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-torres3077&color=yellow" alt="Profile views"/> </p>
 

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, MySQL, Unity, GameMakerStudio, Game Design, 3D modeling**
 
-- 🔭 I'm currently working on [ZomboID](https://github.com/gabriel-torres3077/ZomboID)
+- 🔭 I'm currently working on [RecruIT](https://github.com/gabriel-torres3077/recruitment-website)
 
 <br><br>
 
@@ -70,7 +70,7 @@
 
 - 💬 Me pergunte sobre **Python, MySQL, Unity, GameMakerStudio, Game Design, modelagem 3d**
 
-- 🔭 Atualmente estou trabalhando no [ZomboID](https://github.com/gabriel-torres3077/ZomboID)
+- 🔭 Atualmente estou trabalhando no [RecruIT](https://github.com/gabriel-torres3077/recruitment-website)
 
 <br><br>
 

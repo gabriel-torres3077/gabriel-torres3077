@@ -34,7 +34,7 @@
 ## :gear: &nbsp;Stats
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=donutt&theme=dark&hide=c%23,shaderlab,hlsl" alt="Most Used Languages"/>
 </p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
@@ -93,7 +93,7 @@
 ## :gear: &nbsp;Estatísticas
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=compact&theme=vision-friendly-dark" alt="linguens mais usadas"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=donutt&theme=dark&hide=c%23,shaderlab,hlsl" alt="linguens mais usadas"/>
 </p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

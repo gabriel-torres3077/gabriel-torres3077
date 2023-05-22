@@ -5,13 +5,13 @@
 
 - 💼 Game design consultant and software developer
 
-- 🔍 I'm looking for a job as Game Designer / Python Developer
+- 🔍 I'm looking for a job as Full Stack developer
 
 - 💻 You can find all my projects on: https://github.com/gabriel-torres3077?tab=repositories
 
 - 💬 Ask me about **Python, MySQL, Unity, GameMakerStudio, Game Design, 3D modeling**
 
-- 🔭 I'm currently working on [RecruIT](https://github.com/gabriel-torres3077/recruitment-website)
+- 🔭 I'm currently working my portfolio
 
 <br><br>
 
@@ -62,15 +62,15 @@
 <h1 align="left">Olá, eu sou Gabriel Augustinho Torres</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-torres3077&color=yellow" alt="Profile views"/> </p>
 
-- 💼 Consultor de design da games e desenvolvedor de software Júnior
+- 💼 Consultor de design da games e desenvolvedor de software
 
-- 🔍 Atualmente busco por uma oportunidade de atuar como desenvolvedor Python junior ou Game Designer
-
+- 🔍 Atualmente busco por uma oportunidade de atuar como desenvolvedor Full Stack
+- 
 - 💻 Todos meus projetos estão disponíveis em https://github.com/gabriel-torres3077?tab=repositories
 
 - 💬 Me pergunte sobre **Python, MySQL, Unity, GameMakerStudio, Game Design, modelagem 3d**
 
-- 🔭 Atualmente estou trabalhando no [RecruIT](https://github.com/gabriel-torres3077/recruitment-website)
+- 🔭 Atualmente estou trabalhando no meu portfolio
 
 <br><br>
 

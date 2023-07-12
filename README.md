@@ -31,13 +31,6 @@
 
 <br><br>
 
-## :gear: &nbsp;Stats
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=donutt&theme=dark&hide=c%23,shaderlab,hlsl" alt="Most Used Languages"/>
-</p>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 
@@ -65,7 +58,7 @@
 - 💼 Consultor de design da games e desenvolvedor de software
 
 - 🔍 Atualmente busco por uma oportunidade de atuar como desenvolvedor Full Stack
-- 
+  
 - 💻 Todos meus projetos estão disponíveis em https://github.com/gabriel-torres3077?tab=repositories
 
 - 💬 Me pergunte sobre **Python, MySQL, Unity, GameMakerStudio, Game Design, modelagem 3d**
@@ -90,14 +83,6 @@
 
 <br><br>
 
-## :gear: &nbsp;Estatísticas
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-torres3077&layout=donutt&theme=dark&hide=c%23,shaderlab,hlsl" alt="linguens mais usadas"/>
-</p>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <br><br>
 
 ## :telephone_receiver: &nbsp;Contato
@@ -115,5 +100,10 @@
 <a href="https://api.whatsapp.com/send?phone=5511982203077&text=Olá%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" alt="Whatsapp"/>
 </a><br/><br/>
+
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 

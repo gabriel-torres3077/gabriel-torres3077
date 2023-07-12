@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **Python, MySQL, Unity, GameMakerStudio, Game Design, 3D modeling**
 
-- 🔭 I'm currently working my portfolio
+- 🔭 I'm currently working [IPT QUIZ](https://github.com/gabriel-torres3077/ipt-quiz)
 
-<br><br>
 
 ## 🛠 &nbsp;Skills
 
@@ -29,10 +28,6 @@
 ![SQLite](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![SQLite](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)&nbsp;
 
-<br><br>
-
-
-<br><br>
 
 ## :telephone_receiver: &nbsp;Contact
 
@@ -50,6 +45,8 @@
  <img align="center" src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" alt="Whatsapp"/>
 </a><br/><br/><hr>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <br/><br/><hr>
 :brazil:
 
 <h1 align="left">Olá, eu sou Gabriel Augustinho Torres</h1>
@@ -63,9 +60,7 @@
 
 - 💬 Me pergunte sobre **Python, MySQL, Unity, GameMakerStudio, Game Design, modelagem 3d**
 
-- 🔭 Atualmente estou trabalhando no meu portfolio
-
-<br><br>
+- 🔭 Atualmente estou trabalhando no [IPT QUIZ](https://github.com/gabriel-torres3077/ipt-quiz)
 
 ## 🛠 &nbsp;Habilidades
 
@@ -80,10 +75,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SQLite](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![SQLite](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)&nbsp;
-
-<br><br>
-
-<br><br>
 
 ## :telephone_receiver: &nbsp;Contato
 
@@ -103,7 +94,6 @@
 
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
